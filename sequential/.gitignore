@@ -1,0 +1,23 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+algorithmn/path
+
+#JS
+.DS_Store
+node_modules/
+/dist/
+
+#IDE
+.idea
+#Eclipse
+*.project
+
+algorithmn/paths/
